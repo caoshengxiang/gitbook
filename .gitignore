@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+npm-debug.log
+built/
+dist/
+test/
+yarn-error.log
+_book/.idea
+_book/gitbook
